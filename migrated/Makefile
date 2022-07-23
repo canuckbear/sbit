@@ -20,6 +20,16 @@
 # Retrieve cueeznt package version
 SW_VERSION := $(shell grep sbit debian/changelog | tr \( \  | tr \) \  | tr \- \  | awk '{ print $$2 }' | sort -r | head -n 1 )
 PKG_DIR    := ..
+
+# ------------------------------------------------------------------------------
+#
+# Run git status
+#
+status:
+	@echo "running git status in status"
+	@echo
+	@git status
+
 # ------------------------------------------------------------------------------
 #
 # Target that prints the generic top level help
