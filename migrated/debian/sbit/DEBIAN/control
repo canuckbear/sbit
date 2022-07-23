@@ -1,0 +1,10 @@
+Package: sbit
+Version: 0.4.0-1
+Architecture: all
+Maintainer: William Bonnet <wbonnet@theitmakers.com>
+Installed-Size: 277
+Depends: python3-yaml, python3:any, libxml2-utils
+Section: admin
+Priority: optional
+Homepage: https://www.github.com/wbonnet/sbit
+Description: Simple Build In Tests.
