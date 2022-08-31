@@ -7,7 +7,7 @@ d41d8cd98f00b204e9800998ecf8427e  usr/lib/python3/dist-packages/sbit-0.4.0.egg-i
 1aa9dd5e797f916c477d04d7b4c3adfc  usr/lib/python3/dist-packages/sbit/ansi_colors.py
 3af4813a2d58f3067f2057916c41d119  usr/lib/python3/dist-packages/sbit/check_library.py
 3b786c068be87fd6c71b3723d94df175  usr/lib/python3/dist-packages/sbit/check_testsuite.py
-7fe337bba09debf09278908020b1f1bf  usr/lib/python3/dist-packages/sbit/cli.py
+d9dde29c59cbe4df8b9b396fb2103e5a  usr/lib/python3/dist-packages/sbit/cli.py
 b03faf316f368c8cb57302a36812c5e6  usr/lib/python3/dist-packages/sbit/cli_command.py
 d5593fe54d77233463f0fda6dc5bbd95  usr/lib/python3/dist-packages/sbit/model.py
 83fe53193106bab5fbd564fdce26b57e  usr/lib/python3/dist-packages/sbit/release.py
