@@ -1,3 +1,9 @@
+sbit (0.4.-1) unstable; urgency=low
+
+  * Fix maintainer email and github page
+
+ -- William Bonnet <william@wbonnet.net>  Sun, 04 Sep 2022 00:25:00 +0100
+
 sbit (0.4.0-1) unstable; urgency=low
 
   * Add missing Makefile packaging targets

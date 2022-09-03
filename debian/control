@@ -1,5 +1,5 @@
 Source: sbit
-Maintainer: William Bonnet <wbonnet@theitmakers.com>
+Maintainer: William Bonnet <william@wbonnet.net>
 Section: admin
 Priority: optional
 Build-Depends: debhelper (>= 9),
@@ -8,7 +8,7 @@ Build-Depends: debhelper (>= 9),
                python3-setuptools,
                dh-python
 Standards-Version: 3.9.8
-Homepage: https://www.github.com/wbonnet/sbit
+Homepage: https://www.github.com/canuckbear/sbit
 
 Package: sbit
 Architecture: all
