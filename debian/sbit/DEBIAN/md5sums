@@ -1,5 +1,5 @@
 a1ca9efa60d093316fc0a73454f51c25  usr/bin/sbit
-365d66dc4932c572f4f38657c7d3c61e  usr/lib/python3/dist-packages/sbit-0.4.0.egg-info/PKG-INFO
+c3413d7618b40eb84202ec10b1070c58  usr/lib/python3/dist-packages/sbit-0.4.0.egg-info/PKG-INFO
 68b329da9893e34099c7d8ad5cb9c940  usr/lib/python3/dist-packages/sbit-0.4.0.egg-info/dependency_links.txt
 d41d8cd98f00b204e9800998ecf8427e  usr/lib/python3/dist-packages/sbit-0.4.0.egg-info/requires.txt
 1866d62ffae61f16ae0a0056c0b951a9  usr/lib/python3/dist-packages/sbit-0.4.0.egg-info/top_level.txt
@@ -13,7 +13,7 @@ d5593fe54d77233463f0fda6dc5bbd95  usr/lib/python3/dist-packages/sbit/model.py
 83fe53193106bab5fbd564fdce26b57e  usr/lib/python3/dist-packages/sbit/release.py
 b39504593a31ced5476ebfa8e8582dbc  usr/lib/python3/dist-packages/sbit/run_testsuite.py
 a7d4de983f5053b810d1dfa6e8d2c5fd  usr/share/doc/sbit/README.md
-0d18e08ba19d82854a4338b6a760ddbb  usr/share/doc/sbit/changelog.Debian.gz
+33d0c36daa57f267e24e8ecb46454f50  usr/share/doc/sbit/changelog.Debian.gz
 b4513475da81a0e7554b8e4adc6d3c7a  usr/share/doc/sbit/copyright
 4a4dd3598707603b3f76a2378a4504aa  usr/share/man/man1/sbit.1.gz
 9d14dbb114b5ceb1491305ff07442365  usr/share/sbit/examples/test-01.yml
