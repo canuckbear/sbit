@@ -1,8 +1,8 @@
 Package: sbit
-Version: 0.4.-1
+Version: 0.4.1.-1
 Architecture: all
 Maintainer: William Bonnet <william@wbonnet.net>
-Installed-Size: 277
+Installed-Size: 275
 Depends: python3-yaml, python3:any, libxml2-utils
 Section: admin
 Priority: optional

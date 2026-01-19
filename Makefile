@@ -23,10 +23,20 @@ PKG_DIR    := ..
 
 # ------------------------------------------------------------------------------
 #
+# Run git pull
+#
+status:
+pull:
+	echo connemara pull ; \
+	echo pull ; \
+	git pull ; 
+
+# ------------------------------------------------------------------------------
+#
 # Run git status
 #
 status:
-	@echo "running git status in status"
+	@echo "running git status in topdir"
 	@echo
 	@git status
 

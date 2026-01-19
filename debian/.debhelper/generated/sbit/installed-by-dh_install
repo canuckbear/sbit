@@ -1,4 +1,3 @@
-./config/sbitrc
 ./test-library/__test_skeleton
 ./test-library/cpu_available_processor_count
 ./test-library/cpu_feature_is_available

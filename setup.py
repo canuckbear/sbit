@@ -27,7 +27,7 @@ except ImportError:
 
 config = {
     'description': 'Simple Buid In Tests',
-    'long_description': 'SBIT is a tool designed to run Simple Build In Tests. Tests are defined in a YAML file describing a hierchical structure of tests. Tests themselves are bash scripts stored in a test library',
+    'long_description': 'SBIT is a tool designed to run Simple Build In Tests. Tests are defined in a YAML file describing a hierchical structure of tests. Tests themselves are bash scripts stored in a test library (bash can next call whatever command or tool)',
     'author': __author__,
     'url': 'https://github.com/wbonnet/sbit/',
     'download_url': 'https://github.com/wbonnet/sbit/',
